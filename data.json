@@ -1,0 +1,1454 @@
+{
+    "aahmed2": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "treap",
+        "tabsorspaces": "tabs"
+    },
+    "aayala4": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "treap",
+        "tabsorspaces": "tabs"
+    },
+    "aduong1": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "array",
+        "tabsorspaces": "tabs"
+    },
+    "afranco4": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "vector",
+        "tabsorspaces": "spaces"
+    },
+    "agiulian": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "bst",
+        "tabsorspaces": "tabs"
+    },
+    "ahagema1": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "treap",
+        "tabsorspaces": "tabs"
+    },
+    "alamber2": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "rbtree",
+        "tabsorspaces": "spaces"
+    },
+    "alane3": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "rbtree",
+        "tabsorspaces": "spaces"
+    },
+    "alopez10": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "vector",
+        "tabsorspaces": "spaces"
+    },
+    "alui": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "vector",
+        "tabsorspaces": "tabs"
+    },
+    "amascoli": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "bst",
+        "tabsorspaces": "spaces"
+    },
+    "amcdona9": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "array",
+        "tabsorspaces": "tabs"
+    },
+    "amceache": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "treap",
+        "tabsorspaces": "spaces"
+    },
+    "amital": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "bst",
+        "tabsorspaces": "tabs"
+    },
+    "arodri27": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "rbtree",
+        "tabsorspaces": "tabs"
+    },
+    "aslavin": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "vector",
+        "tabsorspaces": "spaces"
+    },
+    "asura": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "rbtree",
+        "tabsorspaces": "tabs"
+    },
+    "atursi": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "treap",
+        "tabsorspaces": "spaces"
+    },
+    "bblum1": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "rbtree",
+        "tabsorspaces": "spaces"
+    },
+    "blogan1": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "array",
+        "tabsorspaces": "tabs"
+    },
+    "bodonne3": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "treap",
+        "tabsorspaces": "spaces"
+    },
+    "bsabbagh": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "list",
+        "tabsorspaces": "spaces"
+    },
+    "btrossen": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "array",
+        "tabsorspaces": "spaces"
+    },
+    "bwileniu": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "vector",
+        "tabsorspaces": "spaces"
+    },
+    "cbach1": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "fibonacci heap",
+        "tabsorspaces": "spaces"
+    },
+    "ccho1": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "rbtree",
+        "tabsorspaces": "tabs"
+    },
+    "ccrane2": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "array",
+        "tabsorspaces": "spaces"
+    },
+    "cfallon4": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "array",
+        "tabsorspaces": "spaces"
+    },
+    "cfevrius": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "vector",
+        "tabsorspaces": "spaces"
+    },
+    "cfoley": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "vector",
+        "tabsorspaces": "tabs"
+    },
+    "chenegha": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "rbtree",
+        "tabsorspaces": "spaces"
+    },
+    "chergenr": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "vector",
+        "tabsorspaces": "spaces"
+    },
+    "cmarkley": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "list",
+        "tabsorspaces": "spaces"
+    },
+    "cnailos": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "rbtree",
+        "tabsorspaces": "tabs"
+    },
+    "csong1": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "vector",
+        "tabsorspaces": "spaces"
+    },
+    "cwall": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "fibonacci heap",
+        "tabsorspaces": "tabs"
+    },
+    "dbozzo": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "array",
+        "tabsorspaces": "spaces"
+    },
+    "dflynn5": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "treap",
+        "tabsorspaces": "spaces"
+    },
+    "dgalvao": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "array",
+        "tabsorspaces": "spaces"
+    },
+    "dlinares": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "list",
+        "tabsorspaces": "spaces"
+    },
+    "doconno6": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "bst",
+        "tabsorspaces": "tabs"
+    },
+    "dodunayo": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "treap",
+        "tabsorspaces": "tabs"
+    },
+    "dquinn1": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "rbtree",
+        "tabsorspaces": "spaces"
+    },
+    "eatkins1": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "treap",
+        "tabsorspaces": "tabs"
+    },
+    "ebianchi": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "bst",
+        "tabsorspaces": "tabs"
+    },
+    "ebrady6": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "array",
+        "tabsorspaces": "spaces"
+    },
+    "ecunnin2": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "vector",
+        "tabsorspaces": "tabs"
+    },
+    "eflood3": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "rbtree",
+        "tabsorspaces": "tabs"
+    },
+    "egenove1": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "vector",
+        "tabsorspaces": "spaces"
+    },
+    "egidley": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "vector",
+        "tabsorspaces": "tabs"
+    },
+    "ehager": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "vector",
+        "tabsorspaces": "spaces"
+    },
+    "emcclung": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "rbtree",
+        "tabsorspaces": "spaces"
+    },
+    "estrout": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "treap",
+        "tabsorspaces": "tabs"
+    },
+    "ewilli23": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "fibonacci heap",
+        "tabsorspaces": "tabs"
+    },
+    "eyuan1": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "treap",
+        "tabsorspaces": "spaces"
+    },
+    "fmccarte": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "fibonacci heap",
+        "tabsorspaces": "tabs"
+    },
+    "fschicke": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "vector",
+        "tabsorspaces": "tabs"
+    },
+    "galsanka": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "list",
+        "tabsorspaces": "spaces"
+    },
+    "ggatera": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "rbtree",
+        "tabsorspaces": "spaces"
+    },
+    "ggood": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "array",
+        "tabsorspaces": "tabs"
+    },
+    "gmilton": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "vector",
+        "tabsorspaces": "tabs"
+    },
+    "gpassare": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "rbtree",
+        "tabsorspaces": "spaces"
+    },
+    "hfrancoi": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "array",
+        "tabsorspaces": "tabs"
+    },
+    "hlopez1": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "treap",
+        "tabsorspaces": "tabs"
+    },
+    "hmortemo": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "rbtree",
+        "tabsorspaces": "tabs"
+    },
+    "jbao": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "fibonacci heap",
+        "tabsorspaces": "spaces"
+    },
+    "jbeiter": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "vector",
+        "tabsorspaces": "spaces"
+    },
+    "jbonadon": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "vector",
+        "tabsorspaces": "spaces"
+    },
+    "jcastro2": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "bst",
+        "tabsorspaces": "spaces"
+    },
+    "jcolli19": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "rbtree",
+        "tabsorspaces": "tabs"
+    },
+    "jdoney": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "rbtree",
+        "tabsorspaces": "spaces"
+    },
+    "jhill9": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "bst",
+        "tabsorspaces": "spaces"
+    },
+    "jhughes9": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "bst",
+        "tabsorspaces": "tabs"
+    },
+    "jjohns48": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "array",
+        "tabsorspaces": "tabs"
+    },
+    "jjohns54": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "fibonacci heap",
+        "tabsorspaces": "tabs"
+    },
+    "jkim63": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "list",
+        "tabsorspaces": "spaces"
+    },
+    "jmeyer5": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "array",
+        "tabsorspaces": "spaces"
+    },
+    "jmontal2": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "treap",
+        "tabsorspaces": "tabs"
+    },
+    "joh4": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "list",
+        "tabsorspaces": "tabs"
+    },
+    "jphilhow": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "vector",
+        "tabsorspaces": "spaces"
+    },
+    "jshea3": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "vector",
+        "tabsorspaces": "tabs"
+    },
+    "jtaylo19": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "list",
+        "tabsorspaces": "tabs"
+    },
+    "kcapella": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "array",
+        "tabsorspaces": "tabs"
+    },
+    "kdigiorn": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "array",
+        "tabsorspaces": "spaces"
+    },
+    "khecht": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "vector",
+        "tabsorspaces": "spaces"
+    },
+    "kliebsc1": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "list",
+        "tabsorspaces": "spaces"
+    },
+    "kmacdone": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "list",
+        "tabsorspaces": "spaces"
+    },
+    "kmalecki": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "fibonacci heap",
+        "tabsorspaces": "tabs"
+    },
+    "kmcdona7": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "treap",
+        "tabsorspaces": "spaces"
+    },
+    "kmille42": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "treap",
+        "tabsorspaces": "tabs"
+    },
+    "kpettit": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "rbtree",
+        "tabsorspaces": "spaces"
+    },
+    "kstaple1": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "bst",
+        "tabsorspaces": "spaces"
+    },
+    "lheredi2": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "array",
+        "tabsorspaces": "tabs"
+    },
+    "lkusky": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "array",
+        "tabsorspaces": "tabs"
+    },
+    "lweller": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "array",
+        "tabsorspaces": "spaces"
+    },
+    "lwurl": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "array",
+        "tabsorspaces": "spaces"
+    },
+    "lyokum": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "vector",
+        "tabsorspaces": "spaces"
+    },
+    "malmeid1": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "fibonacci heap",
+        "tabsorspaces": "tabs"
+    },
+    "mcresap": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "array",
+        "tabsorspaces": "spaces"
+    },
+    "merdenbe": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "fibonacci heap",
+        "tabsorspaces": "spaces"
+    },
+    "mfair": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "array",
+        "tabsorspaces": "spaces"
+    },
+    "mgiglia": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "array",
+        "tabsorspaces": "spaces"
+    },
+    "mgregor4": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "vector",
+        "tabsorspaces": "spaces"
+    },
+    "mhavigho": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "array",
+        "tabsorspaces": "tabs"
+    },
+    "mkota": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "vector",
+        "tabsorspaces": "tabs"
+    },
+    "mludwig1": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "vector",
+        "tabsorspaces": "spaces"
+    },
+    "mmacknig": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "bst",
+        "tabsorspaces": "spaces"
+    },
+    "mmalir": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "array",
+        "tabsorspaces": "tabs"
+    },
+    "mmoyniha": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "fibonacci heap",
+        "tabsorspaces": "tabs"
+    },
+    "mphelps3": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "list",
+        "tabsorspaces": "spaces"
+    },
+    "mryan29": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "fibonacci heap",
+        "tabsorspaces": "tabs"
+    },
+    "msalaman": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "treap",
+        "tabsorspaces": "spaces"
+    },
+    "mschult4": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "array",
+        "tabsorspaces": "spaces"
+    },
+    "msierrac": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "vector",
+        "tabsorspaces": "spaces"
+    },
+    "nblandin": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "treap",
+        "tabsorspaces": "spaces"
+    },
+    "ndavis9": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "list",
+        "tabsorspaces": "spaces"
+    },
+    "nmarcopo": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "list",
+        "tabsorspaces": "tabs"
+    },
+    "nmeickle": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "treap",
+        "tabsorspaces": "spaces"
+    },
+    "nyoshida": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "fibonacci heap",
+        "tabsorspaces": "spaces"
+    },
+    "oroy": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "list",
+        "tabsorspaces": "spaces"
+    },
+    "owang1": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "fibonacci heap",
+        "tabsorspaces": "spaces"
+    },
+    "pbouchon": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "fibonacci heap",
+        "tabsorspaces": "tabs"
+    },
+    "pfische1": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "fibonacci heap",
+        "tabsorspaces": "spaces"
+    },
+    "phale1": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "treap",
+        "tabsorspaces": "spaces"
+    },
+    "profiles": {
+        "bblum1": {
+            "editor": "emacs",
+            "friends": [
+                "jhill9",
+                "sminer"
+            ],
+            "messages": [
+                "bblum1: yo",
+                "bblum1: hey"
+            ],
+            "password": "dfb4c370f0a9abc15225f3888b6ffe9a",
+            "shell": "zsh",
+            "structure": "fibonacci heap",
+            "tabsorspaces": "spaces"
+        },
+        "jhill9": {
+            "editor": "emacs",
+            "friends": [
+                "bblum1"
+            ],
+            "messages": [],
+            "password": "91ccd0d3353397655fc11b864c890e28",
+            "shell": "csh",
+            "structure": "treap",
+            "tabsorspaces": "spaces"
+        },
+        "sminer": {
+            "editor": "vim",
+            "friends": [
+                "bblum1"
+            ],
+            "messages": [],
+            "password": "1c88a2a77d9078c086e8cebcd5a5e0526",
+            "shell": "bash",
+            "structure": "binary search tree",
+            "tabsorspaces": "tabs"
+        }
+    },
+    "rkarim": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "fibonacci heap",
+        "tabsorspaces": "spaces"
+    },
+    "rkarl": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "fibonacci heap",
+        "tabsorspaces": "spaces"
+    },
+    "rmcinty3": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "list",
+        "tabsorspaces": "spaces"
+    },
+    "rmoran1": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "vector",
+        "tabsorspaces": "tabs"
+    },
+    "rstefani": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "fibonacci heap",
+        "tabsorspaces": "tabs"
+    },
+    "sadams9": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "bst",
+        "tabsorspaces": "tabs"
+    },
+    "scattana": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "array",
+        "tabsorspaces": "tabs"
+    },
+    "shan3": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "rbtree",
+        "tabsorspaces": "tabs"
+    },
+    "sholm": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "vector",
+        "tabsorspaces": "spaces"
+    },
+    "sjohns37": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "bst",
+        "tabsorspaces": "spaces"
+    },
+    "sjohns38": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "rbtree",
+        "tabsorspaces": "tabs"
+    },
+    "smacgint": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "treap",
+        "tabsorspaces": "spaces"
+    },
+    "smichale": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "fibonacci heap",
+        "tabsorspaces": "spaces"
+    },
+    "sminer": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "rbtree",
+        "tabsorspaces": "tabs"
+    },
+    "sriordan": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "rbtree",
+        "tabsorspaces": "tabs"
+    },
+    "sshin1": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "fibonacci heap",
+        "tabsorspaces": "tabs"
+    },
+    "szhao4": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "list",
+        "tabsorspaces": "spaces"
+    },
+    "tblazek": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "vector",
+        "tabsorspaces": "tabs"
+    },
+    "tclare": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "vector",
+        "tabsorspaces": "tabs"
+    },
+    "tkehne": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "rbtree",
+        "tabsorspaces": "tabs"
+    },
+    "tmarsha8": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "rbtree",
+        "tabsorspaces": "spaces"
+    },
+    "tplumme2": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "list",
+        "tabsorspaces": "spaces"
+    },
+    "twray1": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "rbtree",
+        "tabsorspaces": "spaces"
+    },
+    "wdiederi": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "rbtree",
+        "tabsorspaces": "tabs"
+    },
+    "wsulliv8": {
+        "editor": "vim",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "list",
+        "tabsorspaces": "spaces"
+    },
+    "wtheisen": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "vector",
+        "tabsorspaces": "tabs"
+    },
+    "xdong2": {
+        "editor": "notepad++",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "vector",
+        "tabsorspaces": "spaces"
+    },
+    "yoh1": {
+        "editor": "emacs",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "ksh",
+        "structure": "bst",
+        "tabsorspaces": "tabs"
+    },
+    "yshu": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "fibonacci heap",
+        "tabsorspaces": "spaces"
+    },
+    "ywu6": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "tcsh",
+        "structure": "array",
+        "tabsorspaces": "tabs"
+    },
+    "yyu3": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "zsh",
+        "structure": "bst",
+        "tabsorspaces": "spaces"
+    },
+    "zkowalcz": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "csh",
+        "structure": "vector",
+        "tabsorspaces": "spaces"
+    },
+    "zspitzer": {
+        "editor": "nano",
+        "friends": [],
+        "messages": [],
+        "password": "",
+        "shell": "bash",
+        "structure": "vector",
+        "tabsorspaces": "tabs"
+    }
+}
